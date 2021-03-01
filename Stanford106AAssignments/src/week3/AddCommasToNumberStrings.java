@@ -1,6 +1,6 @@
 package week3;
 
-import acm.program.ConsoleProgram;
+import acm.program.*;
 /* **** Method **** */
 
 
